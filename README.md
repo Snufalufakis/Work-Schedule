@@ -63,7 +63,6 @@ THEN the saved events persist
 - HTML
 - Javascript
 
-
 ### What I learned
 The time function took some time to figure out.
 
@@ -89,7 +88,7 @@ The time function took some time to figure out.
 ### Continued development
 
 Javascript, a daily learning  never going to stop getting better.
-
+I wanted to put the divs into the js but it kept breaking need to get better at js development.
 
 ## Author
 
