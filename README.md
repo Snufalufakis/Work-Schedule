@@ -57,6 +57,7 @@ THEN the saved events persist
 - Live Site URL: [github live site](https://snufalufakis.github.io/Work-Schedule/)
 
 ## My process
+I like to start with the javascript portion of the work frist, then work on getting the html to reflect what was done in my javascript. Finally I fight wiht css to wotk with the html. my code feels WET im working on simplifing the html more into my javascript.
 
 ### Built with
 
