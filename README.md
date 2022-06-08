@@ -49,7 +49,7 @@ THEN the saved events persist
 
 ### Screenshot
 
-![](./screenshots/screenshot-127.0.0.1_5500-2022.06.02-19_29_07.png)
+![](assets/screenshots/screenshot-127.0.0.1_5500-2022.06.02-19_29_07.png)
 
 ### Links
 
