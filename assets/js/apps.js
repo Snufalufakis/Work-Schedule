@@ -12,7 +12,7 @@ $(document).ready(function () {
     var time = $(this).parent().attr("id");
     localStorage.setItem(time, value);
   });
-
+// storeing the current text entry in local storage
   $("#hr-9 .textEntry").val(localStorage.getItem("hr-9"));
   $("#hr-10 .textEntry").val(localStorage.getItem("hr-10"));
   $("#hr-11 .textEntry").val(localStorage.getItem("hr-11"));
